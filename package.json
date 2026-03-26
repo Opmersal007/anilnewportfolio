@@ -1,14 +1,14 @@
 {
-  "name": "joel-portfolio",
+  "name": "sunil-portfolio",
   "version": "1.0.0",
-  "description": "Joel's full-stack developer portfolio with Node.js, Express, and MongoDB",
+  "description": "Sunil's full-stack developer portfolio with Node.js, Express, and MongoDB",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
     "dev": "node server/server.js"
   },
   "keywords": ["portfolio", "fullstack", "nodejs", "express", "mongodb"],
-  "author": "Joel",
+  "author": "Sunil",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
