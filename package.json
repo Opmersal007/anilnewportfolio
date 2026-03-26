@@ -1,5 +1,5 @@
 {
-  "name": "sunil-portfolio",
+  "name": "sunils-portfolio",
   "version": "1.0.0",
   "description": "Sunil's full-stack developer portfolio with Node.js, Express, and MongoDB",
   "main": "server/server.js",
